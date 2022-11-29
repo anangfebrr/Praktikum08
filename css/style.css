@@ -1,0 +1,24 @@
+body{
+    margin: 0;
+}
+
+nav{
+    display: flex;
+    justify-content: space-between;
+    background: #7fffd4;
+    padding: 0.5rem;
+    align-items: center;
+}
+
+img{
+    height: 4rem;
+}
+
+nav ul{
+    display: flex;
+    list-style: none;
+}
+
+nav ul li{
+    margin: 0 0.5rem;
+}

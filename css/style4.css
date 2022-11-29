@@ -1,0 +1,45 @@
+body{
+    text-align:center;
+}
+
+#header{
+    background: #00c3ff;
+    width: 96.5vw;
+    height: 60px;
+    margin-bottom: 10px;
+    margin-left: 15px;
+}
+
+#body{
+    display: flex;
+    justify-content: space-evenly;
+}
+
+aside{
+    width: 25vw;
+    height: 400px;
+    background: grey;
+}
+
+article{
+    width: 70vw;
+    height: 400px;
+    background-color: red;
+}
+
+#image{
+    display: flex;
+    justify-content:space-evenly;
+    padding-top: 200px;
+}
+
+img{
+    height: 140px;
+}
+
+#footer{
+    width: 97.5vw;
+    height: 40px;
+    background: blue;
+    margin-top: 10px;
+}
